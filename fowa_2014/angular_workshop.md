@@ -1,6 +1,8 @@
 ## Angular Workshop
 ### Todd Motto
 
+---
+
 __Links:__
 * https://github.com/toddmotto/fowa2014
 * http://www.airpair.com/angularjs
@@ -8,6 +10,7 @@ __Links:__
 * https://docs.angularjs.org/api/
 * https://drive.google.com/drive/u/0/#folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk
 
+---
 
 ### Routing
 * dynamic routea and views
