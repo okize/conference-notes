@@ -1,3 +1,14 @@
+## Angular Workshop
+### Todd Motto
+
+__Links:__
+* https://github.com/toddmotto/fowa2014
+* http://www.airpair.com/angularjs
+* https://github.com/toddmotto/angularjs-styleguide
+* https://docs.angularjs.org/api/
+* https://drive.google.com/drive/u/0/#folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk
+
+
 ### Routing
 * dynamic routea and views
 * XHR templates
@@ -13,7 +24,7 @@ $ location service
 * components/html
 * rendered output
 
-directives - ng-<directive>
+directives - ```ng-<directive>```
 
 ### Controller
 * drives model & view changes
