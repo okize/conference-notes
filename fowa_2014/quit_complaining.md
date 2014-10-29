@@ -7,3 +7,18 @@ The future of the web is not going to write itself. Ditch your scrum master, sto
 
 ---
 
+We won't call them "web apps" in the future, just "apps"; "web vs native" is false dichotomy; blame Apple
+
+how happy you are with the thing you're doing:
+
+* the people you're working with
+* the tools you're working with
+* the actual thing you're building
+
+important to create a sense of urgency, even if you have to fake it
+
+* Step 1: ship something useful
+* Step 2: do step 1, but better
+
+pick your tools & just write the code
+
