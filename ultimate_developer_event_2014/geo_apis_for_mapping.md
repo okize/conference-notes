@@ -7,3 +7,49 @@ In this session we'll walk through all the basic steps of building geo-enabled a
 
 ---
 
+https://github.com/rajrsingh/locationtracker
+
+Agenda:
+
+1. HTML5 Geolocation API
+2. Replication (insert to DB)
+3. Geo Query
+4. Mapping 
+
+W3Cs Geolocation Working Group APIs
+
+DeviceOrientation
+
+* compass heading
+* accelleration
+
+Geolocation
+
+* x, y, altitude
+* once, or continuous
+
+Interfaces
+
+* void getCurrentPosition()
+* long watchPosition()
+* void clearWatch()
+
+Can save locally to PouchDB, which will sync with CouchDB later when there's a connection
+
+Geo Search (Lucene / Solr - spatial api)
+
+* only for pOINT data
+* search geo-coordinates by indexing longitude and latitude fields
+	* bounding box
+	* radius
+	
+Mapping with Leaflet.js
+
+Takeaways
+
+* Cloudant or CouchDB - Javascript & JSON everywhere from front-end to database
+* GeoJSON is a great standard for Javascript-centric apps
+* Demos are easy, managing millions of locations is tougher
+	* requires really good indexing
+	* lightweight mapping apps need to catch up
+	
