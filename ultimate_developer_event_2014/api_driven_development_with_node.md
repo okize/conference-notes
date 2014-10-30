@@ -7,3 +7,49 @@ Good API’s receive developer adoption, poor API’s receive developer rage. Wh
 
 ---
 
+#### Good APIs get adopted
+
+* can measure quality of API by adoption
+
+#### Bad APIs
+
+* low adoption
+* unpleasant experience for developers
+* API not following spec
+
+#### APIs in Node
+
+* node_modules
+* HTTP REST APIs
+* Async APIs
+
+#### Traits of Good APIs
+
+* keep it simple
+* keep it small
+* keep it consistent
+* make it fun
+
+##### Simple
+
+you have 30 seconds for a developer...
+
+* ...to figure out the module's value
+* ...to understand how to use is
+* ...to make a good impression
+
+###### Small
+
+* "do one thing and do it well"
+* limit the surface of your api
+* abstract the complexities behind a small API
+
+###### Consistent
+
+only having to learn one set of conventions makes adopting your API that much easier on developers
+
+##### Fun
+
+provide developers the fastest route to success and allow them to see results immediately
+
+
