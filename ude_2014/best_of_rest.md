@@ -7,7 +7,8 @@ When we discuss APIs, most people immediately think of OAuth, GET and POST, and 
 
 ---
 
-[A Practical Approach to API Design](https://leanpub.com/restful-api-design)
+* [A Practical Approach to API Design](https://leanpub.com/restful-api-design)
+* [API Evangelist](http://apievangelist.com/)
 
 REST is _not_ a standard; it's flexibility all leads to ambiguity
 
@@ -51,15 +52,15 @@ RESOURCES == NOUNS
 * generally
 	* /nouns/:id
 	* /nouns/:id/subnoun/:subid
-	
-	
+
+
 #### Collections too...
 * generally
 	* /nouns
 	* /nouns?page=n&limit=100 (adjectives!)
-	
-	
-#### GET, POST, PUT, DELETE	
+
+
+#### GET, POST, PUT, DELETE
 
 http verbs are great, use them, _don't create your own_!!
 
@@ -69,15 +70,15 @@ http verbs are great, use them, _don't create your own_!!
 	* if that resource is cacheable
 	* how to process itself
 	* how to request the next resource
-	
+
 #### Code on demand
 
 * a request doesn't just retrieve a resource but also the code rot act upon it
 	* we don't have to know or understand the code, just how to run it
 	* allows for flexibility, upgradeability
-	
-descriptive messages:	
-	
+
+descriptive messages:
+
 * HAL (most-common) - hypermedia application language
 * Collection JSON
 * Siren
