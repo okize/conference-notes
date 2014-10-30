@@ -7,3 +7,5 @@ When creating a new REST platform, the planning process frequently gets skipped 
 
 ---
 
+mobile API users want ONE call per screen; phones lose connectivity and so retrying 50 API calls is not a welcome opportunity; solution is to use expressive query language for your API
+
