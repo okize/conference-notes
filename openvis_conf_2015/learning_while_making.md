@@ -7,4 +7,4 @@ p5.js is a JavaScript library that started with the original goal of Processing:
 
 ---
 
-No notes taken.
+No notes recorded.
